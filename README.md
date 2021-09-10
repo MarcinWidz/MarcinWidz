@@ -9,7 +9,7 @@
 
 - 🌱 Je suis en train d'apprendre **Next.js, Redux, Jest, React Testing Library**
 
-- 👨‍💻 Tous mes projets sont disponibles ici: [git remote add origin https://github.com/MarcinWidz/marcin-widz.github.io.git](git remote add origin https://github.com/MarcinWidz/marcin-widz.github.io.git)
+- 👨‍💻 Tous mes projets sont disponibles ici: https://github.com/MarcinWidz/marcin-widz.github.io.git
 
 - 📫 Comment me contacter? **marcin.widz.dev@gmail.com**
 
