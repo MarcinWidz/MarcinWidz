@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcinwidz" alt="marcinwidz" /></a> </p>
 
-- 🔭 Je suis en train de développer mon Portfolio https://github.com/MarcinWidz/marcin-widz.github.io.git
+- 🔭 Je suis en train de développer mon Portfolio https://marcinwidz.github.io/marcin-widz.github.io/
 
 - 🌱 Je suis en train d'apprendre **Next.js, Redux, Jest, React Testing Library**
 
-- 👨‍💻 Tous mes projets sont disponibles ici: https://github.com/MarcinWidz/marcin-widz.github.io.git
+- 👨‍💻 Tous mes projets sont disponibles ici: https://github.com/MarcinWidz?tab=repositories
 
 - 📫 Comment me contacter? **marcin.widz.dev@gmail.com**
 
